@@ -23,8 +23,6 @@ You will be able to develop application that is adaptable, diverse, and customiz
 
 Check out our software development kits (SDKs) for an easy and time-saving way to integrate Penzle solution into your application.
 #
-Let's chat. Discover the ways in which Penzle might assist your organisation.
-
-www.penzle.com/contacts | hello@penzle.com
+Let's chat. Discover the ways in which Penzle might assist your organisation. We are happy to lend a hand. Please fill out the [form](https/www.penzle.com/contact) to initiate communication with us.
 #
 © 2022 Penzle Technologies LLC California, USA. All rights reserved.
