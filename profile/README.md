@@ -1,6 +1,6 @@
 
    
-# ![penzle.com](./favicon-32x32.png) Powerful CMS Solution
+# ![penzle.com](https://i.postimg.cc/Y24rDgwP/favicon-32x32.png) Powerful CMS Solution
 
 #### Our technologies can help you build next generation of your apps
 
